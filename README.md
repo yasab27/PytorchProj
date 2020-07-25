@@ -3,7 +3,7 @@
 
 
 <p align="center">
-    <img src="./statics/deep_learning.jpg" alt="Lorenz Image" width="650"/>
+    <img src="./statics/deep_learning.png" alt="Brain Image" width="550"/>
 </p>
 <p align = "center">A Repository/Project Structure for Pytorch Projects</p>
 
